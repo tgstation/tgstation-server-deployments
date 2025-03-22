@@ -1945,10 +1945,10 @@
       "ActiveDeploymentId": null
     },
     "5ad8e2de-b35d-4700-86e0-3fd21917f131": {
-      "UpdatedAt": "2025-03-22T21:26:33.0645165+00:00",
+      "UpdatedAt": "2025-03-22T21:39:36.2250486+00:00",
       "FriendlyName": "/tg/station13: wiggle",
-      "Version": "6.15.0",
-      "ActiveDeploymentId": null
+      "Version": "6.15.2",
+      "ActiveDeploymentId": 2325139271
     },
     "1613f4fd-8ea1-4389-b108-6c0173b16c4c": {
       "UpdatedAt": "2025-01-21T08:36:24.4533322+00:00",
