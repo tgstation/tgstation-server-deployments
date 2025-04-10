@@ -121,10 +121,10 @@
       "ActiveDeploymentId": null
     },
     "05481ce6-83cf-4d08-baa9-9287f832213f": {
-      "UpdatedAt": "2025-04-10T13:26:08.9378511+00:00",
+      "UpdatedAt": "2025-04-10T19:21:00.7311598+00:00",
       "FriendlyName": "ArkStation",
       "Version": "6.12.3",
-      "ActiveDeploymentId": 2103974327
+      "ActiveDeploymentId": null
     },
     "d95c9878-25ba-4071-b006-fae92d3fa079": {
       "UpdatedAt": "2024-09-08T00:38:16.5045684+00:00",
