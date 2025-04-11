@@ -4193,6 +4193,12 @@
       "FriendlyName": "loanselot",
       "Version": "6.15.2",
       "ActiveDeploymentId": null
+    },
+    "e6b08533-edb1-44af-a5c3-ba5b9c7e1ce3": {
+      "UpdatedAt": "2025-04-11T10:25:21.1973167+00:00",
+      "FriendlyName": " Gagabook",
+      "Version": "6.15.2",
+      "ActiveDeploymentId": 2394721477
     }
   }
 }
