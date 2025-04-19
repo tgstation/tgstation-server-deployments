@@ -4195,10 +4195,10 @@
       "ActiveDeploymentId": null
     },
     "e6b08533-edb1-44af-a5c3-ba5b9c7e1ce3": {
-      "UpdatedAt": "2025-04-19T22:27:53.048187+00:00",
+      "UpdatedAt": "2025-04-19T23:48:15.3734931+00:00",
       "FriendlyName": "Gagabook",
-      "Version": "6.16.0",
-      "ActiveDeploymentId": null
+      "Version": "6.16.1",
+      "ActiveDeploymentId": 2422352084
     },
     "2bb300c6-6945-477c-a2a3-61eaad7a4141": {
       "UpdatedAt": "2025-04-19T04:17:59.403513+00:00",
