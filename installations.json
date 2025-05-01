@@ -1027,10 +1027,10 @@
       "ActiveDeploymentId": 2081384578
     },
     "921745a9-5f9b-4070-acc4-cd08aca5023a": {
-      "UpdatedAt": "2025-04-23T05:14:28.2051258+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": "World of Darkness XIII",
       "Version": "6.15.1",
-      "ActiveDeploymentId": 2432165595
+      "ActiveDeploymentId": null
     },
     "43ed16c2-3c05-4c1e-b3a9-b2f7eea24b03": {
       "UpdatedAt": "2025-01-12T00:41:54.3276933+00:00",
@@ -2395,10 +2395,10 @@
       "ActiveDeploymentId": null
     },
     "f74bc8bc-4923-41ba-8695-a8ceba643f5a": {
-      "UpdatedAt": "2025-04-23T03:39:30.5784339+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.15.2",
-      "ActiveDeploymentId": 2324122599
+      "ActiveDeploymentId": null
     },
     "6a01f763-1b2a-4a19-b5b4-5f894a251359": {
       "UpdatedAt": "2025-04-18T00:46:39.9357438+00:00",
@@ -3199,10 +3199,10 @@
       "ActiveDeploymentId": null
     },
     "6ae73092-03ee-45cb-a387-5bb6c082a4c1": {
-      "UpdatedAt": "2025-04-23T14:10:45.0878356+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.17.0",
-      "ActiveDeploymentId": 2429605675
+      "ActiveDeploymentId": null
     },
     "c843b8d6-c49a-4a23-8ccc-56d89109b83a": {
       "UpdatedAt": "2025-02-27T08:23:24.4258721+00:00",
@@ -4195,10 +4195,10 @@
       "ActiveDeploymentId": 2428416371
     },
     "e6b08533-edb1-44af-a5c3-ba5b9c7e1ce3": {
-      "UpdatedAt": "2025-04-24T00:34:42.8478807+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": "Gagabook",
       "Version": "6.16.1",
-      "ActiveDeploymentId": 2422352084
+      "ActiveDeploymentId": null
     },
     "2bb300c6-6945-477c-a2a3-61eaad7a4141": {
       "UpdatedAt": "2025-04-29T00:42:09.0288747+00:00",
@@ -4597,16 +4597,16 @@
       "ActiveDeploymentId": null
     },
     "8731b800-7048-4ddc-a7ed-0059d0937235": {
-      "UpdatedAt": "2025-04-23T10:03:20.701101+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.17.0",
-      "ActiveDeploymentId": 2433083807
+      "ActiveDeploymentId": null
     },
     "cd7cbace-e114-487a-aa48-a50f699672c4": {
-      "UpdatedAt": "2025-04-23T10:25:25.9044872+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.17.0",
-      "ActiveDeploymentId": 2433109494
+      "ActiveDeploymentId": null
     },
     "2fc5cce4-d752-4977-8e95-30702cfba7d9": {
       "UpdatedAt": "2025-04-23T11:17:37.3217832+00:00",
@@ -4615,16 +4615,16 @@
       "ActiveDeploymentId": null
     },
     "f562ac89-2ab1-493b-bcb0-1cf256349121": {
-      "UpdatedAt": "2025-04-24T00:28:43.2620922+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.17.0",
-      "ActiveDeploymentId": 2436105557
+      "ActiveDeploymentId": null
     },
     "cf49cfc8-7f44-4e7d-bff8-1eacfd8a7bf4": {
-      "UpdatedAt": "2025-04-24T00:30:48.9520084+00:00",
+      "UpdatedAt": "2025-05-01T00:53:18.9552775+00:00",
       "FriendlyName": null,
       "Version": "6.17.0",
-      "ActiveDeploymentId": 2436109907
+      "ActiveDeploymentId": null
     },
     "24780bea-6fcc-490f-9f4b-9c6f20cfa3f4": {
       "UpdatedAt": "2025-04-24T10:04:11.0255603+00:00",
